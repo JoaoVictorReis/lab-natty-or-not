@@ -10,7 +10,9 @@ A ferramenta utilizada para a geração das imagens é a BRIA.ai, utilizando o t
 Eu busquei ser o mais criativo possivel na criação desse projeto, apesar de ser algo simples, é algo desafiador. Pensei na criatura mais mística do Brasil, e que não existem muitas fotos humanoides delas, e pedi para IA gerar imagens que chegassem o mais perto da imagem na minha cabeça.
 
 ## 🚀 Resultados
-
+- [IMAGEM 1](/exemplos/curupira_1.png)
+- [IMAGEM 2](/exemplos/curupira_2.png)
+  
 
 ## 💭 Reflexão (Opcional)
 As IAs realmente sofreram uma evolução enorme, esta quase impeceptivel descobrir se uma imagem é real ou feita por IA.
